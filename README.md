@@ -4,14 +4,9 @@
 2. python3 main.py
 
 <h1>Comandos</h1>
-```rb
-# 
->quit 
-```
+```>quit```
 Encerra o programa.<br>
-```rb
-# >hard reset 
-```
+```>hard reset```
 Reinicia a base de conhecimento do programa.
 
 <h1>Sobre</h1>
